@@ -22,8 +22,6 @@ uz 影视 -> 设置 -> 数据管理 -> 视频源 -> 小齿轮 -> 添加源列表
 
 [视频源](https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sources_default.json)
 
-[色色源](https://gh-proxy.com/https://raw.githubusercontent.com/YYDS678/uzVideo/main/video_sources_sese.json)
-
 ### 直播
 
 [IPTV 大佬 YanG-1989](https://github.com/YanG-1989/m3u)
